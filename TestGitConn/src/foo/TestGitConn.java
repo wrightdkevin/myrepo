@@ -7,7 +7,7 @@ public class TestGitConn {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("startx");
+		System.out.println("starty");
 
 	}
 
